@@ -1,0 +1,85 @@
+[
+  {
+    "oracleID": 10091037,
+    "first_name": "Siddharth",
+    "last_name": "Kumar",
+    "email": "siddharth.kumar@publicissapient.com",
+    "career_stage": "ATL2",
+    "password": "Sidd@123",
+    "role": "member"
+  },
+  {
+    "oracleID": 10087436,
+    "first_name": "Arshath",
+    "last_name": "Sajjath",
+    "email": "arshath.sajjath@publicissapient.com",
+    "career_stage": "SAL1",
+    "password": "Arsh@123",
+    "role": "admin"
+  },
+  {
+    "oracleID": 10083450,
+    "first_name": "Pragati",
+    "last_name": "Varshney",
+    "email": "pragati.varshney@publicissapient.com",
+    "career_stage": "ATL2",
+    "password": "Prag@123",
+    "role": "admin"
+  },
+  {
+    "oracleID": 10091796,
+    "first_name": "Arun",
+    "last_name": "Jilla",
+    "email": "arun.jilla@publicissapient.com",
+    "career_stage": "ATL2",
+    "password": "Arun@123"
+  },
+  {
+    "oracleID": 10092041,
+    "first_name": "Naveen",
+    "last_name": "Chandra",
+    "email": "naveenchandra.lachapeta@publicissapient.com",
+    "career_stage": "ATL2",
+    "password": "Nave@123"
+  },
+  {
+    "oracleID": 7150873,
+    "first_name": "Achal",
+    "last_name": "Jain",
+    "email": "achal.jain@publicissapient.com",
+    "career_stage": "SAL2",
+    "password": "Acha@123"
+  },
+  {
+    "oracleID": 7150475,
+    "first_name": "Bhawna",
+    "last_name": "Bhardwaj",
+    "email": "bhawna.bhardwaj@publicissapient.com",
+    "career_stage": "AL&TD",
+    "password": "Bhaw@123"
+  },
+  {
+    "oracleID": 10087230,
+    "first_name": "Augusto",
+    "last_name": "Danielis",
+    "email": "smailee.jasrotia@publicissapient.com",
+    "career_stage": "AL&TD",
+    "password": "Smai@123"
+  },
+  {
+    "oracleID": 10092812,
+    "first_name": "Ritik",
+    "last_name": "Kumar",
+    "email": "ritik.kumar@publicissapient.com",
+    "career_stage": "ATL2",
+    "password": "Riti@123"
+  },
+  {
+    "oracleID": 10092042,
+    "first_name": "Ganapa",
+    "last_name": "Manoj",
+    "email": "ganapa.saimanoj@publicissapient.com",
+    "career_stage": "SATL1",
+    "password": "Gana@123"
+  }
+]
